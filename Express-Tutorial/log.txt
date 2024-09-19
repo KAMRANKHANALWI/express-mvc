@@ -1,0 +1,12 @@
+
+1725781910375:::1 GET: /api/users
+
+1725782123669:::1 POST: /api/users
+
+1725782186802:::1 POST: /api/users
+
+1725782208558:::1 GET: /api/users/66dd58aaa6231f3a88117949
+
+1725782255451:::1 POST: /api/users
+
+1725782266080:::1 DELETE: /api/users/66dd58aaa6231f3a88117949
